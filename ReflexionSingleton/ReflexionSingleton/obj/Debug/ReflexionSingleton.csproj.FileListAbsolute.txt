@@ -1,0 +1,6 @@
+D:\donnees\CDI_M6_Copie_20160706\POO\POO - ateliers\ReflexionSingleton\ReflexionSingleton\bin\Debug\ReflexionSingleton.exe.config
+D:\donnees\CDI_M6_Copie_20160706\POO\POO - ateliers\ReflexionSingleton\ReflexionSingleton\bin\Debug\ReflexionSingleton.exe
+D:\donnees\CDI_M6_Copie_20160706\POO\POO - ateliers\ReflexionSingleton\ReflexionSingleton\bin\Debug\ReflexionSingleton.pdb
+D:\donnees\CDI_M6_Copie_20160706\POO\POO - ateliers\ReflexionSingleton\ReflexionSingleton\obj\Debug\ReflexionSingleton.csprojResolveAssemblyReference.cache
+D:\donnees\CDI_M6_Copie_20160706\POO\POO - ateliers\ReflexionSingleton\ReflexionSingleton\obj\Debug\ReflexionSingleton.exe
+D:\donnees\CDI_M6_Copie_20160706\POO\POO - ateliers\ReflexionSingleton\ReflexionSingleton\obj\Debug\ReflexionSingleton.pdb
